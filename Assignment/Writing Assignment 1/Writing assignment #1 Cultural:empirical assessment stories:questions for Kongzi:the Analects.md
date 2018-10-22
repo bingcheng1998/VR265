@@ -4,7 +4,7 @@
 
 
 
-Based on the philosophical readings from Kongzi/the Analects, you will formulate stories/questions – or analyze the occurrence and/or co-occurrence of to assess the extent to which individuals would subscribe to cultural variants – for example, ideas, beliefs, and values – touched on in the readings. In other words, you should identify empirical claims made by the texts and develop means of assessing these claims.  
+Based on the philosophical readings from Kongzi/the Analects, you will formulate stories/questions – or analyze the occurrence and/or co-occurrence of to assess the extent to which individuals would subscribe to cultural variants – for example, ideas, beliefs, and values – touched on in the readings. In other words, ==you should identify empirical claims made by the texts and develop means of assessing these claims.==  
 
 These should be at least two pages but no longer than four pages – Times New Roman 12-point font, 1-inch margins, no more than double spaced. You should include an introduction with a thesis statement, stating what you’ve done and why, as well as a plan of development, outlining what you’re doing where.
 
