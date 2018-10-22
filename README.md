@@ -10,9 +10,7 @@ According to the student handbook (2015 version),
 
 > It is a violation of the Honor Code for students to submit, as their own, work that is not the result of their own labor and thoughts. This applies, in particular, to ideas, expressions or work obtained from other students as well as from books, the internet, and other sources. The failure to properly credit ideas, expressions or work from others is considered plagiarism.
 
----
-
-#Introduction to Chinese Philosophy: Understanding Contemporary through Ancient China
+# Introduction to Chinese Philosophy: Understanding Contemporary through Ancient China
 
  
 
