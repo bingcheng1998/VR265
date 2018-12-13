@@ -28,9 +28,13 @@ Office Rm:	UM-SJTU JI building, 411C
 
 Email:	rockwell.clancy@sjtu.edu.cn 
 
+---
+
 Answers for final exam: [here](http://cokesoft.com/pdf-flip/7f929658458f3f40b89b8f8a939681b9)
 
+![](https://ws3.sinaimg.cn/large/006tNbRwly1fy5i7zu0q9j31n00u07bi.jpg)
 
+---
 
 Teaching assistant
 
