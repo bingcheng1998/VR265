@@ -1,4 +1,4 @@
-# VR265
+# [VR265](http://cokesoft.com/pdf-flip/7f929658458f3f40b89b8f8a939681b9/#page/5)
 
 <img src="https://ws1.sinaimg.cn/large/006tNbRwly1fwg7hovo4gj30ky0ektck.jpg" width="200" align=left />
 
@@ -28,7 +28,9 @@ Office Rm:	UM-SJTU JI building, 411C
 
 Email:	rockwell.clancy@sjtu.edu.cn 
 
- 
+Answers for final exam: [here](http://cokesoft.com/pdf-flip/7f929658458f3f40b89b8f8a939681b9)
+
+
 
 Teaching assistant
 
@@ -37,8 +39,6 @@ Name: 	Ashley Ng
 Email: 	spongenee@sjtu.edu.cn
 
 Office Hrs:	Monday 6-7:40 pm
-
-Location:	TBD
 
  
 
